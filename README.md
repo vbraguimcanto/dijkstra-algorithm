@@ -1,2 +1,2 @@
-# dijkstra-s-algorithm-
+# Algoritmo de Dijkstra
 Implementação do Algoritmo de Dijkstra
